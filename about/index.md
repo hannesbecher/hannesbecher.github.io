@@ -8,7 +8,7 @@ title: About Hannes
 
 ![About](../img/about.jpg)
 
-##I as a person
+##I myself
 I am a biologist with wide-spread interest in life-related phenomena. Being a trained botanist I have worked (and published) on Historical Geobotany, Pollen Analysis, Molecular Systematics, Cytogenetics, and Epigenetics of Giant Genomes. In Autumn 2014, I ventured to start a PhD on Population Genetics and Sex Chromosome Evolution in grasshoppers. This allows me to apply my knowledge acquired in the plant world, and it challenges me to go beyond that every day.  
 I like scripting in python and R, and I am a keen microscopist. In my spare time, I enjoy nature and I play the clarinet in two London Bands.
 

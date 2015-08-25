@@ -4,7 +4,10 @@ title: Hannes Becher, Doctoral Researcher
 ---
 		
 #Hannes Becher's web presence
-![chromosomes and science box](img/150724_box.png)
-The annual grasshopper field trip is coming up and I cannot wait to leave Old Blighty for a while and go to the mountains of Southern France. The science box is packed, tickets are booked. Now, it is time to get the material on which my PhD will depend (no pressure). There might be some photos soon.
+Having spend a great time in France and Switzerland (see [Fieldwork and ESEB](blog/2015/08/25/summer/)), I am now back to London and excited to work and the samples I collected.
 
-In August, I will attend ESEB in Lausanne. I am going to present a poster which can be previewed [here](misc/Becher_ESEB_public.png). The modelling was done using the scrips from my GitHub repo [FvU](https://github.com/SBCSnicholsLab/FvU).
+
+##Upcoming Events
+* [EMPSEB21](http://empseb21.bio.ed.ac.uk/) in Stirling  
+* The [Rocks and Clocks](https://royalsociety.org/events/2015/11/dating-species-divergences/) meeting at The Royal Society  
+* The annual [LERN](http://londonevolution.net/) conference at Queen Mary University of London

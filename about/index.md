@@ -20,6 +20,6 @@ Both chromosomal races of *P. pedestris* meet and form a narrow hybrid zone whic
 * Does the X-chromosomal cline across the hybrid zone agree with other markers?
 * Is the spread of the neo-sex chromosome system being fuelled by sexually antagonistic selection?
 
-The following figure is to explain the sex-chromosomal combinations expected in *P. pedestris*. The ancestral X-chromosome is shown in red, a pair of autosomes is blue, and the neo-Y is blue with polka dots (because is stems from an autosome). Male karyotypes are shown in the top row, female ones in the bottom. The ancestral configuration is show on the left-hand side, followed by the fused one. The right half of the figure shows the expected hybrid karyotypes. Note the potential occurrence of Y-chromosomes in hybrid females.
+The figure below is to explain the sex-chromosomal combinations expected in *P. pedestris*. The ancestral X-chromosome is shown in red, a pair of autosomes is blue, and the neo-Y is blue with polka dots (because is stems from an autosome). Male karyotypes are shown in the top row, female ones in the bottom. The ancestral configuration is show on the left-hand side, followed by the fused one. The right half of the figure shows the expected hybrid karyotypes. Note the potential occurrence of Y-chromosomes in hybrid females.
 
 ![chromosomes](../img/sex_chrs_drawing.png)

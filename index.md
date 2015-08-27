@@ -4,7 +4,7 @@ title: Hannes Becher, Doctoral Researcher
 ---
 		
 #Hannes Becher's web presence
-Having spent a great time in France and Switzerland (see [Fieldwork and ESEB](blog/2015/08/25/summer/)), I am now back to London and excited to work and the samples I collected.
+Having spent a great time in France and Switzerland (see [Fieldwork and ESEB](blog/2015/08/25/summer/)), I am now back to London and excited to work on the samples I collected.
 
 
 ##Upcoming Events

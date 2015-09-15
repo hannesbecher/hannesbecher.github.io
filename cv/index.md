@@ -18,7 +18,7 @@ title: Hannes Becher - CV
 ##Memberships
 * Organising committee [EMPSEB21](http://empseb21.bio.ed.ac.uk/)
 * Genetics Society
-* [BLAM](http://www.blam-hp.eu) (Bryological-Lichenological Workgroup for Central Europe)
+* [BLAM](http://www.blam-hp.eu/home_en.html) (Bryological-Lichenological Workgroup for Central Europe)
 
 
 ![stations](../img/cv.png)

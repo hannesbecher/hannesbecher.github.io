@@ -6,7 +6,7 @@ title: Hannes Becher - CV
 #Hannes Becher -- CV
 
 | 2014-present|PhD in Population Genetics with Richard Nichols, Queen Mary University of London (UK)
-| 2013-2014|Research Assistant with Andrew Leitch (Epigenetics in Giant Genomes), Queen Mary University of London (UK)
+| 2013-2014|Research Assistant with Andrew Leitch (Epigenetics of Giant Genomes), Queen Mary University of London (UK)
 | 2010-2013|MSc in Systematic Botany and Cytogenetics, Martin-Luther-University Halle-Wittenberg (Germany)
 | 2007-2010|BSc in Biology (Palynology), Martin-Luther-University Halle-Wittenberg (Germany)
 | 2006|Abitur, Landesschule Pforta (Science Department), Schulpforte (Germany)

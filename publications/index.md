@@ -5,7 +5,7 @@ title: Hannes Becher - Publications
 
 
 #Publications
-Wang W, Ma L, **Becher H**, Garcia S, Kovarikova A, Leitch IJ, Leitch AR & Kovařík A (*accepted*)  
+Wang W, Ma L, **Becher H**, Garcia S, Kovaříkova A, Leitch IJ, Leitch AR & Kovařík A (*accepted*)  
 Astonishing 35S rDNA diversity in the gymnosperm species *Cycas revoluta* Thunb.  
 *Chromosoma*.
 

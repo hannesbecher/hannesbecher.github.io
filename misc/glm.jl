@@ -175,4 +175,4 @@ misses = Int[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 
 data = DataFrame(xvals = xvals, hits = hits, misses = misses)
 
-glm1 = glm(hits, misses ~ xvals, data, family = Binomial, link = LogitLink())
+glm1 = glm(hits, misses ~ xvals, data, family = Binomial(), link = LogitLink())

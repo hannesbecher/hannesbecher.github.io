@@ -6,7 +6,7 @@ title: Hannes Becher - Publications
 
 #Publications
 Wang W, Ma L, **Becher H**, Garcia S, Kovaříkova A, Leitch IJ, Leitch AR & Kovařík A (*accepted*)  
-Astonishing 35S rDNA diversity in the gymnosperm species *Cycas revoluta* Thunb.  
+[Astonishing 35S rDNA diversity in the gymnosperm species *Cycas revoluta* Thunb.](http://dx.doi.org/10.1007/s00412-015-0556-3)  
 *Chromosoma*.
 
 Ma L, Hatlen A, Kelly LJ, **Becher H**, Wang W, Kovařík A, Leitch IJ, & Leitch AR (2015)  
@@ -14,7 +14,7 @@ Ma L, Hatlen A, Kelly LJ, **Becher H**, Wang W, Kovařík A, Leitch IJ, & Leitch
 *Genome Biology and Evolution*, **7**(9), 2648--2662. 
 
 Winterfeld G, Schneider J, **Becher H**, Dickie J, & Röser M (2015)  
-[Karyosystematics of the Australasian stipoid grass *Austrostipa* and related genera: chromosome sizes, ploidy, chromosome base numbers, and phylogeny.](http://dx.doi.org/10.1071/SB14029)
+[Karyosystematics of the Australasian stipoid grass *Austrostipa* and related genera: chromosome sizes, ploidy, chromosome base numbers, and phylogeny.](http://dx.doi.org/10.1071/SB14029)  
 *Australian Systematic Botany*, **28**(3), 145--159.
 
 **Becher H**, Ma L, Kelly LJ, Kovařík A, Leitch IJ, & Leitch AR (2014)  

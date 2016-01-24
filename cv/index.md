@@ -16,9 +16,10 @@ title: Hannes Becher - CV
 * £2500 for the organisation of [EMPSEB21](http://empseb21.bio.ed.ac.uk/) (student-lead evolutionary conference in Stirling 2015)
 
 ##Memberships
-* Organising committee [EMPSEB21](http://empseb21.bio.ed.ac.uk/)
-* Genetics Society
+* Genetics Society (Student Member)
+* [GfBS](http://www.gfbs-home.de/) (Society for Biological Systematics, Student Member)
 * [BLAM](http://www.blam-hp.eu/home_en.html) (Bryological-Lichenological Workgroup for Central Europe)
+* Organising committee [EMPSEB21](http://empseb21.bio.ed.ac.uk/)
 
 
 ![stations](../img/cv.png)

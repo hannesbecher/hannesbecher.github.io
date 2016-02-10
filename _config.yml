@@ -1,2 +1,3 @@
 name: Hannes Becher, Doctoral Researcher
 permalink: /blog/:year/:month/:day/:title
+markdown: kramdown

@@ -12,5 +12,3 @@ title: Hannes Becher, Doctoral Researcher
 
 ![mapping](img/mapping_13.png)
 
-## Looking forward to
-* [GfbS-Meeting in Munich](http://www.en.palaeontologie.geowissenschaften.uni-muenchen.de/gfbs2016/index.html) February 21st--24th

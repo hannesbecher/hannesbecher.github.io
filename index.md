@@ -6,9 +6,11 @@ title: Hannes Becher, Doctoral Researcher
 # Hannes Becher's web presence
 
 ## What's going on
-* Still crunching transcriptomes to find race-specific polymorphisms in my grasshoppers.
-* Grasshopper PacBio data have arrived! Highly uneven coverage after mapping to michtochondrial genome makes me curious what is going on with regard to NUMTs. Also, are there inter-race differences?
-* Comparing these data to previously generated NextSeq reads and making silly-looking graphs...
+* Bechmarking the assembled *Podisma* transcriptome
+* Assembled *Podisma*'s mitochondrial genome and looking for NUMTs (nuclear inserts of mitochondrial DNA)
 
-![mapping](img/mapping_13.png)
+![mapping](img/podi_circle.png)
 
+## Later this year
+* [RepeatExplorer Workshop](http://w3lamc.umbr.cas.cz/repeatexplorer/?page_id=14) (České Budějovice, Czechia)
+* [Adaptation in Nature](http://www.gfgenetik.de/tagungen/) (Braunschweig, Germany)

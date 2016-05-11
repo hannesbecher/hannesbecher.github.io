@@ -23,4 +23,4 @@ Endogenous pararetrovirus sequences associated with 24 nt small RNAs at the cent
 
 Hellmund M, Wennrich V, **Becher H**, Krichel A, Bruelheide H, & Melles M (2011)  
 Zur Vegetationsgeschichte im Umkreis des Süßen Sees, Lkr. Mansfeld-Südharz – Ergebnisse von Pollen- und Elementanalysen.  
-In: Bork HJ, Meller H, Gerlach R (eds), *Umweltarchäologie – Naturkatastrophen und Umweltwandel im archäologischen Befund, Tagungen des Landesmuseums für Vorgeschichte Halle (Saale)* **6**, Halle , 111--127.
+In: Bork HJ, Meller H, Gerlach R (eds), *Umweltarchäologie – Naturkatastrophen und Umweltwandel im archäologischen Befund, Tagungen des Landesmuseums für Vorgeschichte Halle (Saale)* **6**, Halle, 111--127.

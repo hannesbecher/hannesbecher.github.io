@@ -6,7 +6,7 @@ title: Hannes Becher, Doctoral Researcher
 # Hannes Becher's web presence
 
 ## What's going on
-* Bechmarking the assembled *Podisma* transcriptome
+* Benchmarking the assembled *Podisma* transcriptome
 * Assembled *Podisma*'s mitochondrial genome and looking for NUMTs (nuclear inserts of mitochondrial DNA)
 
 ![mapping](img/podi_circle.png)

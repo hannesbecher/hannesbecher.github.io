@@ -8,6 +8,8 @@ title: Hannes Becher, Doctoral Researcher
 ## What's going on
 I am on field work.
 
+The first virgin female has become adult. The crossing experiment can begin!
+
 ## Later this year
 * [Adaptation in Nature](http://www.gfgenetik.de/tagungen/) (Braunschweig, Germany)
  

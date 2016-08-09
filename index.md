@@ -6,7 +6,7 @@ title: Hannes Becher, Doctoral Researcher
 # Hannes Becher's web presence
 
 ## What's going on
-I am back from a successfuls and inspiring spell field work. Sadly the last one of my PhD. Hundrets of samples are sorted. Now it is time to extract DNA and to look at chromosomes.
+I am back from a successful and inspiring spell field work. Sadly the last one of my PhD. Hundrets of samples are sorted. Now it is time to extract DNA and to look at chromosomes.
 
 
 ## Later this year

@@ -6,7 +6,7 @@ title: Hannes Becher, Doctoral Researcher
 # Hannes Becher's web presence
 
 ## What's going on
-I am back from a successful and inspiring spell field work. Sadly the last one of my PhD. Hundrets of samples are sorted. Now it is time to extract DNA and to look at chromosomes.
+I am back from a successful and inspiring spell of field work, sadly the last one of my PhD. Hundreds of samples were collected and catalogued. Now it is time to extract DNA and to look at chromosomes.
 
 
 ## Later this year
@@ -14,5 +14,4 @@ I am back from a successful and inspiring spell field work. Sadly the last one o
 * [Prof Dicky Clymo's Valedictory lecture](https://www.eventbrite.co.uk/e/the-life-and-afterlife-of-bog-moss-why-it-matters-professor-emeritus-rs-dicky-clymo-tickets-26924331400) (QMUL, London)
 
 ## Links
-* [pairshow](https://github.com/hannesbecher/RE-tools/blob/master/pairshow.R) -- An R script to visualise paired-read realationships in RE clusters
-
+* [pairshow](https://github.com/hannesbecher/RE-tools/blob/master/pairshow.R) -- An R script to visualise paired-read relationships in RE clusters

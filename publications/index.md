@@ -5,9 +5,9 @@ title: Hannes Becher - Publications
 
 
 # Publications
-Wang W, Ma L, **Becher H**, Garcia S, Kovaříkova A, Leitch IJ, Leitch AR & Kovařík A (*online*)  
+Wang W, Ma L, **Becher H**, Garcia S, Kovaříkova A, Leitch IJ, Leitch AR & Kovařík A (2016)  
 Astonishing 35S rDNA diversity in the gymnosperm species *Cycas revoluta* Thunb.  
-[*Chromosoma*.](http://dx.doi.org/10.1007/s00412-015-0556-3)
+[*Chromosoma*, **125**(4), 683--699.](http://dx.doi.org/10.1007/s00412-015-0556-3)
 
 Ma L, Hatlen A, Kelly LJ, **Becher H**, Wang W, Kovařík A, Leitch IJ, & Leitch AR (2015)  
 Angiosperms are unique amongst land plant lineages in the occurrence of key genes in the RNA dependent DNA methylation (RdDM) pathway.   

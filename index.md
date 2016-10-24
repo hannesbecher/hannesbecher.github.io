@@ -6,11 +6,12 @@ title: Hannes Becher, Doctoral Researcher
 # Hannes Becher's web presence
 
 ## What's going on
-During the last weeks, I have extracted DNA from hundreds of grasshopper samples. Time to get it sequenced.
+It looks like I have finished the lab work for my PhD!
+
+Also, the [Genetics Society ](http://www.genetics.org.uk/) has decided to support my stay with the [Lohse Group](http://lohse.bio.ed.ac.uk/) at the University of Edinburgh. Thanks very much!
 
 
 ## Later this year
-* [Prof Dicky Clymo's Valedictory lecture](https://www.eventbrite.co.uk/e/the-life-and-afterlife-of-bog-moss-why-it-matters-professor-emeritus-rs-dicky-clymo-tickets-26924331400) (QMUL, London)
 * Short course on quantitative genetics at [The Roslin Institute](http://www.roslin.ed.ac.uk/) (Edinburgh)
 
 ## Links

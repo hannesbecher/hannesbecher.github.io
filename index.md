@@ -10,3 +10,5 @@ title: Hannes Becher, Doctoral Researcher
 
 ## Links
 * [pairshow](https://github.com/hannesbecher/RE-tools/blob/master/pairshow.R) -- An R script to visualise paired-read relationships in RE clusters
+
+![coal](img/coal.png)

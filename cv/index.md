@@ -16,7 +16,7 @@ title: Hannes Becher - CV
 * Leonardo-da-Vinci-Fellowship (€6000, enabled me to stay six months in Andrew Leitch's lab) -- 2013
 * £2500 for the organisation of [EMPSEB21](http://empseb21.bio.ed.ac.uk/) (student-lead evolutionary conference in Stirling 2015)
 * GfBS Travel Grant (€250) -- 2016
-* £1000 Travel Grant from the [Genetics Society](http://www.genetics.org.uk/) for a stay with the [Lohse Group](http://lohse.bio.ed.ac.uk/) -- 2016
+* £1000 Training Grant from the [Genetics Society](http://www.genetics.org.uk/) for a stay with the [Lohse Group](http://lohse.bio.ed.ac.uk/) -- 2016
 
 ## Memberships
 * Genetics Society (Student Member)

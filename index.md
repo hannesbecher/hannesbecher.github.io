@@ -6,7 +6,7 @@ title: Hannes Becher, Doctoral Researcher
 # Hannes Becher's web presence
 
 ## Hat's goin on?
-I am busy working on grasshopper mitochondrial data. Hoping the results will be sent of soon...
+I am busy working on grasshopper mitochondrial data. Hoping the results will be sent off soon...
 
 
 ## PopGroup talk

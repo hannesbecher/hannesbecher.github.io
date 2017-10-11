@@ -6,13 +6,9 @@ title: Hannes Becher, Doctoral Researcher
 # Hannes Becher's web presence
 
 ## What's going on?
-I am busy working on grasshopper mitochondrial data. Hoping the results will be sent off soon...
+* I got a funding extension which will take me to the end of this year. Many thanks to QMUL's School of Biological and Chemical Sciences!
+* At the moment I am busy working on grasshopper capture seq data looking for SNP clines in a zone of secondary contact. 
 
 
-## PopGroup talk
-[PopGroup50](http://populationgeneticsgroup.org.uk/) is history. If you missed my talk or you would like to have a look again, you can download some slides [here](misc/PopG_50_public.pdf).
-
-## Links
-* [pairshow](https://github.com/hannesbecher/RE-tools/blob/master/pairshow.R) -- An R script to visualise paired-read relationships in RE clusters
-
-![freqs](img/freqs.png)
+## A hybrid zone pic
+![freqs](img/zone.png)

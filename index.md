@@ -10,5 +10,5 @@ title: Hannes Becher, Doctoral Researcher
 * At the moment I am busy working on grasshopper capture seq data looking for SNP clines in a zone of secondary contact. 
 
 
-## A hybrid zone pic
+## A hybrid zone pic:
 ![freqs](img/zone.png)

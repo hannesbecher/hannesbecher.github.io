@@ -21,7 +21,7 @@ title: Hannes Becher - CV
 ## Memberships
 * Genetics Society (Student Member)
 * [GfBS](http://www.gfbs-home.de/) (Society for Biological Systematics, Student Member)
-* [BLAM](http://www.blam-hp.eu/home_en.html) (Bryological-Lichenological Workgroup for Central Europe)
+* [BLAM](http://blam-bl.de/) (Bryological-Lichenological Workgroup for Central Europe)
 * Organising committee [EMPSEB21](http://empseb21.bio.ed.ac.uk/)
 
 

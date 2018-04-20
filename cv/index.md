@@ -6,11 +6,11 @@ title: Hannes Becher - CV
 # Hannes Becher -- CV
 
 | 2018|Postdoc with Brian Charlesworth, University of Edinburgh (UK)
-| 2014-2017|PhD in Population Genetics with Richard Nichols, Queen Mary University of London (UK)
-| 2016-2017|Visiting Research Student with Konrad Lohse at the University of Edinburgh (UK)
-| 2013-2014|Research Assistant with Andrew Leitch (Epigenetics of Giant Genomes), Queen Mary University of London (UK)
-| 2010-2013|MSc in Systematic Botany and Cytogenetics, Martin-Luther-University Halle-Wittenberg (Germany)
-| 2007-2010|BSc in Biology (Palynology), Martin-Luther-University Halle-Wittenberg (Germany)
+| 2014--2018|PhD in Population Genetics with Richard Nichols, Queen Mary University of London (UK)
+| 2016--2017|Visiting Research Student with Konrad Lohse at the University of Edinburgh (UK)
+| 2013--2014|Research Assistant with Andrew Leitch (Epigenetics of Giant Genomes), Queen Mary University of London (UK)
+| 2010--2013|MSc in Systematic Botany and Cytogenetics, Martin-Luther-University Halle-Wittenberg (Germany)
+| 2007--2010|BSc in Biology (Palynology), Martin-Luther-University Halle-Wittenberg (Germany)
 | 2006|Abitur, Landesschule Pforta (Science Department), Schulpforte (Germany)
 
 ## Grants/Awards

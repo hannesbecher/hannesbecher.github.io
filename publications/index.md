@@ -5,6 +5,10 @@ title: Hannes Becher - Publications
 
 
 # Publications
+Winterfeld G, **Becher H**, Voshell S & Hilu K (2018)
+Karyotype evolution in Phalaris (Poaceae): The role of reductional dysploidy, polyploidy and chromosome alteration in a wide-spread and diverse genus
+[*PLOS ONE*, **13**(2), e0192869](http://dx.doi.org/10.1371/journal.pone.0192869)
+
 Wang W, Ma L, **Becher H**, Garcia S, Kovaříkova A, Leitch IJ, Leitch AR & Kovařík A (2016)  
 Astonishing 35S rDNA diversity in the gymnosperm species *Cycas revoluta* Thunb.  
 [*Chromosoma*, **125**(4), 683--699.](http://dx.doi.org/10.1007/s00412-015-0556-3)

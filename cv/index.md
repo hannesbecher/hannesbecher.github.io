@@ -5,6 +5,7 @@ title: Hannes Becher - CV
 
 # Hannes Becher -- CV
 
+| 2018--present|Postdoc with Alex Twyford, University of Edinburgh (UK)
 | 2018|Postdoc with Brian Charlesworth, University of Edinburgh (UK)
 | 2014--2018|PhD in Population Genetics with Richard Nichols, Queen Mary University of London (UK)
 | 2016--2017|Visiting Research Student with Konrad Lohse at the University of Edinburgh (UK)
@@ -20,7 +21,9 @@ title: Hannes Becher - CV
 * £1000 Training Grant from the [Genetics Society](http://www.genetics.org.uk/) for a stay with the [Lohse Group](http://lohse.bio.ed.ac.uk/) -- 2016
 
 ## Memberships
-* Genetics Society (Student Member)
+* Botanical Society of Britain & Ireland (BSBI)
+* British Bryological Society (BBS)
+* Genetics Society
 * [GfBS](http://www.gfbs-home.de/) (Society for Biological Systematics, Student Member)
 * [BLAM](http://blam-bl.de/) (Bryological-Lichenological Workgroup for Central Europe)
 * Organising committee [EMPSEB21](http://empseb21.bio.ed.ac.uk/)

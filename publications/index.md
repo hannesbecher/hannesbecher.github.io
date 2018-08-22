@@ -5,9 +5,17 @@ title: Hannes Becher - Publications
 
 
 # Publications
+Wang W, Wan T, **Becher H**, Kuderová A, Leitch IJ, Garcia S, Leitch A, Kovarik A  
+Remarkable variation of ribosomal DNA organisation and copy number in gnetophytes, a distinct lineage of gymnosperms.  
+*Annals of Botany* (in press).
+
+Becher H (2018)  
+Digest: Ancestry mosaics hint at selection and may provide an alternative to differentiation scans.  
+[*Evolution*, **72**(8), 1723--1724.](https://doi.org/10.1111/evo.13549)
+
 Winterfeld G, **Becher H**, Voshell S & Hilu K (2018)  
 Karyotype evolution in Phalaris (Poaceae): The role of reductional dysploidy, polyploidy and chromosome alteration in a wide-spread and diverse genus.  
-[*PLOS ONE*, **13**(2), e0192869](http://dx.doi.org/10.1371/journal.pone.0192869)
+[*PLOS ONE*, **13**(2), e0192869.](http://dx.doi.org/10.1371/journal.pone.0192869) ([correction here](https://doi.org/10.1371/journal.pone.0195889))
 
 Wang W, Ma L, **Becher H**, Garcia S, Kovaříkova A, Leitch IJ, Leitch AR & Kovařík A (2016)  
 Astonishing 35S rDNA diversity in the gymnosperm species *Cycas revoluta* Thunb.  

@@ -3,11 +3,19 @@ layout: default
 title: Hannes Becher - Publications
 ---
 
+# Preprints
+At the moment, I have two manuscripts under review. I'll post the bioRxiv links once the preprints are online:  
+
+**Becher H** & Nichols RA  
+Mitochondrial sequences or Numts – By-catch differs between sequencing methods. Submitted to *Molecular Ecoloy Resources*  
+
+**Becher H**, Jackson BC & Charlesworth B  
+Patterns of genetic variability in genomic regions with low rates of recombination. Submitted to *Current Biology*
 
 # Publications
-Wang W, Wan T, **Becher H**, Kuderová A, Leitch IJ, Garcia S, Leitch A, Kovarik A  
+Wang W, Wan T, **Becher H**, Kuderová A, Leitch IJ, Garcia S, Leitch A & Kovarik A (2018)  
 Remarkable variation of ribosomal DNA organisation and copy number in gnetophytes, a distinct lineage of gymnosperms.  
-*Annals of Botany* (in press).
+[*Annals of Botany*, **123**(5), 767–781.](https://doi.org/10.1093/aob/mcy172)
 
 Becher H (2018)  
 Digest: Ancestry mosaics hint at selection and may provide an alternative to differentiation scans.  

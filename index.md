@@ -7,7 +7,9 @@ title: Hannes Becher - Evolutionary genomics
 
 
 ## What's new?
-In July, I started my postdoc in the [Twyford Lab](http://twyford.bio.ed.ac.uk/home) working on local adaptation in tetraploid species of *Euphrasia*.
+* Current Biology accepted our manuscript on patterns of genetic diversity in low-recombination regions, [unrevised preprint here](https://www.biorxiv.org/content/10.1101/739888v2).
+* I am spending the winter at the [Wissenschaftskolleg zu Berlin](https://wiko-berlin.de) as a fellow's partner.
+* This year's Common Garden and Reciprocal Transplant experiments are over. Many thanks to Alex Twyford, Max Brown, Gavin Powell, and Kim Prior for making them a success! I am crunching through the data now.
 
-## From the first *Euphrasia* field trip:
-![freqs](img/FI2pics.jpg)
+## Links
+* I am a member of the [Twyford lab](http://twyford.bio.ed.ac.uk).

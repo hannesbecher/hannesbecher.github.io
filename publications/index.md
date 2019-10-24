@@ -7,10 +7,12 @@ title: Hannes Becher - Publications
 At the moment, I have two manuscripts under review. I'll post the bioRxiv links once the preprints are online:  
 
 **Becher H** & Nichols RA  
-Mitochondrial sequences or Numts – By-catch differs between sequencing methods. Submitted to *Molecular Ecology Resources*  
+Mitochondrial sequences or Numts – By-catch differs between sequencing methods. Submitted to *Molecular Ecology Resources* 
+
+## Accepted
 
 **Becher H**, Jackson BC & Charlesworth B  
-Patterns of genetic variability in genomic regions with low rates of recombination. Submitted to *Current Biology*
+Patterns of genetic variability in genomic regions with low rates of recombination. *Current Biology*
 
 # Publications
 Wang W, Wan T, **Becher H**, Kuderová A, Leitch IJ, Garcia S, Leitch A & Kovarik A (2018)  

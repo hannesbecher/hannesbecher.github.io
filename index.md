@@ -13,3 +13,5 @@ title: Hannes Becher - Evolutionary genomics
 
 ## Links
 * I am a member of the [Twyford lab](http://twyford.bio.ed.ac.uk).
+
+![genealogies](img/twoPops1500.svg.png)

@@ -12,7 +12,7 @@ Mitochondrial sequences or Numts – By-catch differs between sequencing methods
 ## Accepted
 
 **Becher H**, Jackson BC & Charlesworth B  
-Patterns of genetic variability in genomic regions with low rates of recombination. *Current Biology*
+Patterns of genetic variability in genomic regions with low rates of recombination. *Current Biology*. [unrevised preprint here](https://www.biorxiv.org/content/10.1101/739888v2)
 
 # Publications
 Wang W, Wan T, **Becher H**, Kuderová A, Leitch IJ, Garcia S, Leitch A & Kovarik A (2018)  

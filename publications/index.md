@@ -13,12 +13,13 @@ Mitochondrial sequences or Numts – By-catch differs between sequencing methods
 
 
 # Publications
-**Becher H**, Jackson BC & Charlesworth B (*in press*)  
-Patterns of genetic variability in genomic regions with low rates of recombination. *Current Biology*. [unrevised preprint here](https://www.biorxiv.org/content/10.1101/739888v2)
+**Becher H**, Jackson BC & Charlesworth B (2020)  
+Patterns of genetic variability in genomic regions with low rates of recombination.  
+[*Current Biology*, **30**(1), 94--100.](https://authors.elsevier.com/a/1aME23QW8RqLBN)
 
 Wang W, Wan T, **Becher H**, Kuderová A, Leitch IJ, Garcia S, Leitch A & Kovarik A (2018)  
 Remarkable variation of ribosomal DNA organisation and copy number in gnetophytes, a distinct lineage of gymnosperms.  
-[*Annals of Botany*, **123**(5), 767–781.](https://doi.org/10.1093/aob/mcy172)
+[*Annals of Botany*, **123**(5), 767--781.](https://doi.org/10.1093/aob/mcy172)
 
 Becher H (2018)  
 Digest: Ancestry mosaics hint at selection and may provide an alternative to differentiation scans.  

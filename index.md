@@ -7,9 +7,10 @@ title: Hannes Becher - Evolutionary genomics
 
 
 ## What's new?
-* Current Biology accepted our manuscript on patterns of genetic diversity in low-recombination regions, [open access here](https://authors.elsevier.com/a/1aME23QW8RqLBN).
-* I am spending the winter at the [Wissenschaftskolleg zu Berlin](https://wiko-berlin.de) as a fellow's partner.
-* This year's Common Garden and Reciprocal Transplant experiments are over. Many thanks to Alex Twyford, Max Brown, Gavin Powell, and Kim Prior for making them a success! I am crunching through the data now.
+* Check out our recent work on [Fair Isle *Euphrasia* on bioRxiv](https://biorxiv.org/cgi/content/short/2020.04.29.067579v1)!
+* This includes an R (shiny) tool for fitting pop gen parameters to k-mer spectra of allopolyploids [see here](https://github.com/hannesbecher/shiny-k-mers).
+* Current Biology published our manuscript on [patterns of genetic diversity in low-recombination regions](https://www.sciencedirect.com/science/article/abs/pii/S0960982219313879).
+
 
 ## Links
 * I am a member of the [Twyford plant genomics lab](http://twyford.bio.ed.ac.uk).

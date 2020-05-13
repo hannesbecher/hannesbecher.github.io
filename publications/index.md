@@ -6,8 +6,13 @@ title: Hannes Becher - Publications
 # Preprints
 
 
+**Becher H**, Brown MR, Powell G, Metherell C, Riddiford NJ & Twyford AD  
+Maintenance of species differences in closely related tetraploid parasitic *Euphrasia* (Orobanchaceae) on an isolated island.  
+[unrevised preprint here](https://www.biorxiv.org/content/10.1101/2020.04.29.067579v1)
+
 **Becher H** & Nichols RA  
-Mitochondrial sequences or Numts – By-catch differs between sequencing methods. [unrevised preprint here](https://www.biorxiv.org/content/10.1101/739805v1)
+Mitochondrial sequences or Numts – By-catch differs between sequencing methods.  
+[unrevised preprint here](https://www.biorxiv.org/content/10.1101/739805v1)
 
 
 
@@ -21,7 +26,7 @@ Wang W, Wan T, **Becher H**, Kuderová A, Leitch IJ, Garcia S, Leitch A & Kovari
 Remarkable variation of ribosomal DNA organisation and copy number in gnetophytes, a distinct lineage of gymnosperms.  
 [*Annals of Botany*, **123**(5), 767--781.](https://doi.org/10.1093/aob/mcy172)
 
-Becher H (2018)  
+**Becher H** (2018)  
 Digest: Ancestry mosaics hint at selection and may provide an alternative to differentiation scans.  
 [*Evolution*, **72**(8), 1723--1724.](https://doi.org/10.1111/evo.13549)
 
